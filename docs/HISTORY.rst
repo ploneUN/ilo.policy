@@ -4,7 +4,7 @@ Changelog
 1.12 (unreleased)
 -----------------
 
-- Nothing changed yet.
+- Remove [all] from collective.plonetruegallery, no longer needed.
 
 
 1.11 (2013-12-16)
